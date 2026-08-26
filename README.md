@@ -25,7 +25,7 @@
   <img src="https://github.com/BerezkaVika/BerezkaVika/blob/main/resources/icons/postgresql.svg" title="postgresql" alt="express" width="40" height="40"/>&nbsp
  <img src="https://github.com/BerezkaVika/BerezkaVika/blob/main/resources/icons/oracle-original.svg" title="oracle" alt="express" width="40" height="40"/>&nbsp
  <img src="https://github.com/BerezkaVika/BerezkaVika/blob/main/resources/icons/redis.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp
-  <img src="https://github.com/BerezkaVika/BerezkaVika/blob/main/resources/icons/rabbitmq.svg" title="rabbitmq" alt="rabbitmq" width="60" />&nbsp
+  <img src="https://github.com/BerezkaVika/BerezkaVika/blob/main/resources/icons/rabbitmq.svg" title="rabbitmq" alt="rabbitmq" width="60" height="60"/>&nbsp
   <img src="https://github.com/BerezkaVika/BerezkaVika/blob/main/resources/icons/linux.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
    <img src="https://github.com/BerezkaVika/BerezkaVika/blob/main/resources/icons/kafka.svg" title="kafka" alt="kafka" width="40" height="40"/>&nbsp
 </div>
